@@ -142,7 +142,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Vk7z58kQDsN5TIckpkCx" name="01 14/03">
-    <mxGraphModel dx="1042" dy="1700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="992" dy="1675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -167,7 +167,7 @@
         <mxCell id="RN29bDsctojWpWjci43W-7" value="Gerencia" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="540" y="400" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RN29bDsctojWpWjci43W-8" value="Confirmação da&lt;div&gt;reserva&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RN29bDsctojWpWjci43W-8" value="Confirmar&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;reserva&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="90" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RN29bDsctojWpWjci43W-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RN29bDsctojWpWjci43W-1" target="RN29bDsctojWpWjci43W-4">
@@ -206,7 +206,7 @@
         <mxCell id="RN29bDsctojWpWjci43W-22" value="pagamento&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="182" y="212" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RN29bDsctojWpWjci43W-25" value="envio de&amp;nbsp;&lt;div&gt;confirmação&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RN29bDsctojWpWjci43W-25" value="enviar&lt;div&gt;confirmação&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="182" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RN29bDsctojWpWjci43W-27" value="confirmar pagamento" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
